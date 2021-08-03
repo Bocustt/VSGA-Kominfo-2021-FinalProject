@@ -12,4 +12,5 @@ Aplikasinya dapat di lihat pada situs: https:/vsga.sakurtek.com, perubahan yang 
 Fokus utama adalah bagaimana siswa dapat merancang User interface baik menggunakan CSS native ataupun framework. Selain itu Fokus pada Backend siswa dapat membuat Aplikasi dengan menerapkan fungsi yang sudah dipelajari, dimana seluruh fungsi disimpan pada satu file yaitu modul.php
 
 Stendy B. Sakur,
+
 Dosen Politeknik Negeri Nusa Utara - Tahuna, Manado
