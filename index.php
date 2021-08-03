@@ -105,4 +105,5 @@ yang diatas sehingga proses offline dan online bisa sama
 	<script src="plugin/bootstrap-5.0.2-dist/js/bootstrap.bundle.min.js"></script>
 -->
 </body>
+
 </html>
