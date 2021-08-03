@@ -1,5 +1,5 @@
 # kominfo-vsga-rev
-Ini merupakan File Final Project yang akan dibuat oleh Siswa - Siswa Pelatihan DTS-VSGA untuk Kompetensi Junior Web Developer, dimana pada aplikasi sederhana ini yang merupakan Aplikasi PERPUSTAKAAN UMUM.
+Ini merupakan File Final Project yang akan dibuat oleh Siswa - Siswi Pelatihan DTS-VSGA untuk Kompetensi Junior Web Developer, dimana pada aplikasi sederhana ini yang merupakan Aplikasi PERPUSTAKAAN UMUM.
 
 Aplikasi Asli bersumber dari Kominfo dan panitia.
 
